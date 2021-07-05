@@ -16,7 +16,7 @@ Discord Rich Presence Client (RPC) for [Notion](https://www.notion.so/)
 
 ## What This Script Can't Do
 - Update the Notion page name if changed after running the script. Maybe in the future, eh?
-- Run on platforms other than Windows. Why not? As of now, the script uses Applescript to check if Notion is open or not. Hence, it is not supported on other platforms
+- Run on platforms other than Windows. Why not? As of now, the script uses AppleScript to check if Notion is open or not. Hence, it is not supported on other platforms
 
 ## Contribution
 - This is an open-source project, and shall continue to remain so! Make a pull request! All contributions are welcome :D
