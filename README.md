@@ -23,4 +23,4 @@ Discord Rich Presence (RPC) for [Notion](https://www.notion.so/)
 - For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](LICENSE.md)
+[MIT](LICENSE)
