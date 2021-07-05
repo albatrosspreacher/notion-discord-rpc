@@ -1,6 +1,7 @@
 # notion-discord-rpc
 
-Discord Rich Presence Client (RPC) for [Notion](https://www.notion.so/)
+Discord Rich Presence Client (RPC) for [Notion](https://www.notion.so/) <br> <br>
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=15)](https://github.com/qwertyquerty/pypresence)
 
 ## Requirements
 - macOS
