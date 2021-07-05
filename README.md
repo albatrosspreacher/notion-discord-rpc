@@ -1,6 +1,6 @@
 # notion-discord-rpc
 
-Discord Rich Presence (RPC) for [Notion](https://www.notion.so/)
+Discord Rich Presence Client (RPC) for [Notion](https://www.notion.so/)
 
 ## Requirements
 - macOS
